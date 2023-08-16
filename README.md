@@ -14,10 +14,13 @@ A user-friendly Body Mass Index (BMI) Calculator built using Flutter. This appli
 5. Result Interpretation: Understand if you're underweight, at a normal weight, overweight, or severely overweight based on your BMI.
 
 ### Installation:
-1. Ensure you have Flutter installed. If not, visit Flutter's official site to get started.
-2. Clone this repository: git clone https://github.com/dav1dk1m/bmi_calculator.git
-3. Navigate into the project directory: cd bmi_calculator
-4. Install dependencies: flutter pub get
-5. Run the app: flutter run
+1. Ensure you have Flutter installed. If not, visit [Flutter's official site](https://docs.flutter.dev/get-started/install) to get started.
+2. Clone this repository: `git clone https://github.com/dav1dk1m/BMI-Calculator_Flutter.git`
+4. Navigate into the project directory: `cd bmi_calculator`
+5. Install dependencies: `flutter pub get`
+6. Run the app: `flutter run`
 
-6. 
+## Testing
+
+### User Acceptance Testing
+
